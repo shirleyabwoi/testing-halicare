@@ -39,6 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'arv',
     'halicare',
+
+    'services',
+    'center',
+    'appointment',
+
 ]
 
 MIDDLEWARE = [
